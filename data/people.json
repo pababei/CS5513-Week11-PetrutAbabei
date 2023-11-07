@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Jane Reader",
+    "email": "jane@reader.com",
+    "phone": "800-456-1234",
+    "birthdate": "04/01/2020",
+    "id": 1
+  },
+  {
+    "name": "John Bookworm",
+    "email": "john@bookworm.com",
+    "phone": "555-789-5678",
+    "birthdate": "10/15/1990",
+    "id": 2
+  },
+  {
+    "name": "Alice Bibliophile",
+    "email": "alice@bibliophile.com",
+    "phone": "123-456-7890",
+    "birthdate": "07/22/1985",
+    "id": 3
+  },
+  {
+    "name": "Bob Bibliomaniac",
+    "email": "bob@bibliomaniac.com",
+    "phone": "999-333-5555",
+    "birthdate": "12/05/2001",
+    "id": 4
+  },
+  {
+    "name": "Eve Booklover",
+    "email": "eve@booklover.com",
+    "phone": "777-888-9999",
+    "birthdate": "03/30/1995",
+    "id": 5
+  }
+]

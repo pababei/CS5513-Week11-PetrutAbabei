@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "The Secret of the Lost City",
+    "author": "Sarah Miller",
+    "genre": "Adventure",
+    "website": "https://www.thesecretofthelostcity.com",
+    "readById": [1, 2, 3]
+  },
+  {
+    "id": 2,
+    "name": "Infinite Realms: The Awakening",
+    "author": "James Collins",
+    "genre": "Science Fiction",
+    "website": "https://www.infiniterealmsbook.com",
+    "readById": [2, 3]
+  },
+  {
+    "id": 3,
+    "name": "The Enigma Files",
+    "author": "Emily Johnson",
+    "genre": "Mystery",
+    "website": "https://www.enigmafiles.com",
+    "readById": [1, 3]
+  },
+  {
+    "id": 4,
+    "name": "Echoes of Eternity",
+    "author": "David Smith",
+    "genre": "Fantasy",
+    "website": "https://www.echoesofeternitybook.com",
+    "readById": [1]
+  },
+  {
+    "id": 5,
+    "name": "The Art of Connection",
+    "author": "Sophia Adams",
+    "genre": "Self-Help",
+    "website": "https://www.theartofconnectionbook.com",
+    "readById": [3, 4]
+  }
+]
