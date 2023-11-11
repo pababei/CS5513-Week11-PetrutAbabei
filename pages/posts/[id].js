@@ -3,8 +3,6 @@ import { getAllIds, getItemData } from "../../lib/data";
 
 export async function getStaticProps({ params }) {
   const itemData = await getItemData(params.id);
-  // const readBooksData = await getBooksReadById(params.id);
-  console.log(itemData);
   return {
     props: {
       itemData,
